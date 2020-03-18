@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InstaLogin-GraphAPI</string>
+
+
+    <string name="instagram_app_id"></string>
+    <string name="instagram_secret"></string>
+    <string name="instagram_redirect_uri"></string>
+
+    <string name="instgram_login">Instgram Login</string>
+    <string name="login">Login</string>
+    <string name="msg_no_internet_connection">No internet connection</string>
+</resources>
