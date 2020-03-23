@@ -17,6 +17,9 @@ and place these into
 
 ```
 string.xml
+    <string name="instagram_app_id"></string>
+    <string name="instagram_secret"></string>
+    <string name="instagram_redirect_uri"></string>
 ````
 
 see attached screenshot for more details.
